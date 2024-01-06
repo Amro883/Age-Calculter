@@ -84,7 +84,6 @@ button:hover {
 
 .result:hover {
   background: #938a8a;
-  /* letter-spacing: 1px; */
 }
 
 .result span {
@@ -96,11 +95,7 @@ button:hover {
 
 
 
-.end {
-  font-size: 20px;
-  margin-left: 5px;
-  color: #fff;
-}
+
 
 @media (max-width:480px) {
   body {
